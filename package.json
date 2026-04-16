@@ -39,6 +39,7 @@
     "ky": "^2.0.0",
     "lodash-es": "^4.18.1",
     "lucide-react": "^1.8.0",
+    "nitro": "3.0.260415-beta",
     "react": "19.3.0-canary-00f063c3-20260415",
     "react-dom": "19.3.0-canary-00f063c3-20260415",
     "react-hook-form": "^7.72.1",
