@@ -23,7 +23,7 @@ RUN pnpm build
 
 FROM base AS runner
 
-COPY --from=builder /app/.output ./output
+COPY --from=builder /app/.output ./.output
 
 ENV NODE_ENV=production \
     PORT=8080
